@@ -20,4 +20,15 @@ Read about toDateString() for info on formatting a readable date.
 
 */
 
-import { users } from "./data";
+import { users } from "./data.mjs";
+
+const userDataTransformedData = (data) => {
+  return data.map((user) => {
+    return {
+      fullName: user.name.first + " " + user.name.last,
+      birthday: new Date(user.dob.date).toDateString(),
+    };
+  });
+};
+
+console.log(userDataTransformedData(users));
