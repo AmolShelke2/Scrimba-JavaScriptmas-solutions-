@@ -38,7 +38,7 @@ reverse the strings manually.
 */
 
 function reverseStringsInArray(arr) {
-  return arr;
+  return arrays;
 }
 
 console.log(reverseString(title));
