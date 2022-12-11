@@ -23,8 +23,10 @@ Example input: !htrae ot emocleW
 Example output: Welcome to earth!
 */
 
+console.log(title);
+
 function reverseString(arr) {
-  return arr;
+  return arr.split("").reverse().join("");
 }
 
 /*
@@ -40,4 +42,4 @@ function reverseStringsInArray(arr) {
 }
 
 console.log(reverseString(title));
-console.log(reverseStringsInArray(messages));
+// console.log(reverseStringsInArray(messages));
