@@ -10,4 +10,14 @@ to offer a dinner menu instead. Let's fix this using .map()
 the following div for each food in the array: 
 `<div class="food">FOOD VALUE HERE</div>` 
 4. Remember to remove any separating commas between the food divs!
+
 */
+
+const dinnerFoods = ["🍝", "🍔", "🌮"];
+
+const foodSection = document.getElementById("menu");
+const foods = dinnerFoods.map((food) => {
+  return `<div class="food">${food}</div>`;
+});
+
+foodSection.innerHTML = foods.join("");
