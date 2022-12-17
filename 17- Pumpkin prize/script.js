@@ -44,3 +44,15 @@ function flatten(arr) {
 
 console.log(flatten(kittyScores));
 console.log(flatten(kittyPrizes));
+
+// without flat method.
+function flattenArray(arr) {
+  const data = [];
+  arr.forEach((item) => {
+    !Array.isArray(item) ? data.push(item) : data.push(...item);
+  });
+  return data;
+}
+
+console.log(flattenArray(kittyScores));
+console.log(flattenArray(kittyPrizes));
