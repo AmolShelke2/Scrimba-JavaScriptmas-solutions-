@@ -37,3 +37,10 @@ const kittyPrizes = [
   ["🐟"],
   "🐟",
 ];
+
+function flatten(arr) {
+  return arr.flat();
+}
+
+console.log(flatten(kittyScores));
+console.log(flatten(kittyPrizes));
