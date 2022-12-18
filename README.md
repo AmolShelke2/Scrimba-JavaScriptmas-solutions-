@@ -22,3 +22,5 @@ This repository contains solution of every scrimba JavaScriptmas challenges.
 - Insert Dashes
 - Pumpkin prize
 - Candies
+
+## Visit Scrimba for more Info: [Scrimba](https://scrimba.com/dashboard)
