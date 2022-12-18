@@ -8,3 +8,9 @@ for n = 3 and m = 10, then the output sholud be candies(n, m) = 9.
 Each child will eat 3 pieces, So the answer is 9
 
 */
+
+function candies(children, candy) {
+  return Math.floor(candy / children) * children;
+}
+
+console.log(candies(3, 10));
