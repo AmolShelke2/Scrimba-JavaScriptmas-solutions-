@@ -6,3 +6,7 @@ Example:
 For year = 1905 the output should be centuryFromYear(year) = 20
 
 */
+
+const centuryFromYear = (year) => Math.ceil(year / 100);
+
+console.log(centuryFromYear(2000));
