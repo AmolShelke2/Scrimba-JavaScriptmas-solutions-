@@ -22,5 +22,6 @@ This repository contains solution of every scrimba JavaScriptmas challenges.
 - Insert Dashes
 - Pumpkin prize
 - Candies
+- Century From Year
 
 ## Visit Scrimba for more Info: [Scrimba](https://scrimba.com/dashboard)
