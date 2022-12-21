@@ -2,7 +2,7 @@
 
 This repository contains solution of every scrimba JavaScriptmas challenges.
 
-## Challenges
+## JavaScriptmas Challenges
 
 - Panic Function
 - Totally Private Field
