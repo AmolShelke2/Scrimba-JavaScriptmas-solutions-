@@ -24,5 +24,6 @@ This repository contains solution of every scrimba JavaScriptmas challenges.
 - Candies
 - Century From Year
 - Find Free Prodcasts
+- Definitely Not FizzBuzz
 
 ## Visit Scrimba for more Info: [Scrimba](https://scrimba.com/dashboard)
