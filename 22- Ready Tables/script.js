@@ -6,6 +6,14 @@ function getReadyTables() {
   return readyTables;
 }
 
+function displayReadyTable() {
+  return getReadyTables()
+    .map((table) => `<div class="table">${table}</div>`)
+    .join("");
+}
+
+document.getElementById("tables").innerHTML = displayReadyTable();
+
 /* Challenge 3: Ready Tables
 - Topic: Return a Function
 Our restaurant has 20 tables and the staff serves 
