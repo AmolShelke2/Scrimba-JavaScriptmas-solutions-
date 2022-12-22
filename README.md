@@ -1,6 +1,6 @@
 # Scrimba-JavaScriptmas-solutions
 
-This repository contains solution of every scrimba JavaScriptmas challenges.
+This repository contains solution of every scrimba JavaScriptmas challenges. Join this challenge to win amazing prices and goodies
 
 ## JavaScriptmas Challenges
 
