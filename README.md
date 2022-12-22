@@ -25,5 +25,6 @@ This repository contains solution of every scrimba JavaScriptmas challenges.
 19. Century From Year
 20. Find Free Prodcasts
 21. Definitely Not FizzBuzz
+22. Ready Tables
 
 ## Visit Scrimba for more Info: [Scrimba](https://scrimba.com/dashboard)
