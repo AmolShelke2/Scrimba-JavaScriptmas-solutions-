@@ -1,0 +1,36 @@
+* {
+        margin: 0;
+}
+
+html {
+        font-size: 1.5rem;
+        font-family: Arial, sans-serif;
+}
+
+body {
+        min-height: 100vh;
+        text-align: center;
+        padding: 1rem;
+}
+
+h2 {
+        margin-bottom: 0.5em;
+}
+
+section {
+        display: flex;
+        justify-content: center;
+        gap: 1.25em;
+}
+
+.table {
+        font-size: 3rem;
+        background-color: rebeccapurple;
+        color: white;
+        border-radius: 10px;
+        padding: 0.25em;
+        width: clamp(50px, 25vw, 100px);
+        height: clamp(50px, 25vw, 100px);
+        display: grid;
+        place-content: center;
+}
