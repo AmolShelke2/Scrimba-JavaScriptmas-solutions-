@@ -15,4 +15,12 @@
 */
 
 import products from "./data.js";
-console.log(products);
+
+function sortProducts(data) {
+  return data.sort((x, y) => x.price - y.price);
+}
+
+const listByCheapest = sortProducts(products);
+for (let { product, price } of listByCheapest) {
+  console.log(`${product},${price}`);
+}
