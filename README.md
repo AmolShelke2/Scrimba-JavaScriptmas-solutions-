@@ -26,5 +26,6 @@ This repository contains solution of every scrimba JavaScriptmas challenges. Joi
 20. Find Free Prodcasts
 21. Definitely Not FizzBuzz
 22. Ready Tables
+23. Holiday Gift Shopping
 
 ## Visit Scrimba for more Info: [Scrimba](https://scrimba.com/dashboard)
