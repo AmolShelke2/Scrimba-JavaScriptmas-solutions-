@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Christmas JukeBox</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+        <link href="styles.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+        <div class="container">
+                <h1>🎄 Christmas Jukebox</h1>
+                <iframe id="player" type="text/html" width="480" height="240"
+                        src="https://www.youtube.com/embed/PoAjmmD89Vw?autoplay=1" frameborder="0"></iframe>
+
+                <div class="songs">
+                        <button onclick="playSong('PoAjmmD89Vw')">White Christmas</button>
+                        <button onclick="playSong('1qYz7rfgLWE')">Rockin' Around The Christmas Tree</button>
+                        <button onclick="playSong('R_vmuL0gjU0')">Jingle Bell Rock</button>
+                        <button onclick="playSong('WaNwEkCeZrE')">It's Beginning to Look a Lot Like Christmas</button>
+                        <button onclick="playSong('AN_R4pR1hck')">It's the Most Wonderful Time of the Year</button>
+                </div>
+                <script src="script.js" defer></script>
+        </div>
+</body>
+
+</html>
