@@ -27,6 +27,7 @@ This repository contains solution of every scrimba JavaScriptmas challenges. Joi
 21. Definitely Not FizzBuzz
 22. Ready Tables
 23. Holiday Gift Shopping
+24. Cristmas JukeBox
 
 This are all the challenges which were taken from the scrimba official website.
 
