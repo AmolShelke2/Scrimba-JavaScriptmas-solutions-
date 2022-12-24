@@ -32,3 +32,7 @@ This repository contains solution of every scrimba JavaScriptmas challenges. Joi
 This are all the challenges which were taken from the scrimba official website.
 
 ## Visit Scrimba for more Info: [Scrimba](https://scrimba.com/dashboard)
+
+## Final Challenge Preview
+![FInal Challenge solution - Google Chrome 24-12-2022 11 21 54 PM](https://user-images.githubusercontent.com/95171638/209446699-d119b303-f041-4d56-8d9a-f8b864b312e1.png)
+
