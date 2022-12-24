@@ -28,4 +28,6 @@ This repository contains solution of every scrimba JavaScriptmas challenges. Joi
 22. Ready Tables
 23. Holiday Gift Shopping
 
+This are all the challenges which were taken from the scrimba official website.
+
 ## Visit Scrimba for more Info: [Scrimba](https://scrimba.com/dashboard)
